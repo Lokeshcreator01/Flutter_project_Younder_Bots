@@ -7,4 +7,4 @@ def sum_of_two_largest(nums):
 
 nums = [10, 9, 3, 4, 5, 6, 7, 13]
 result = sum_of_two_largest(nums)
-print(result)  # Output: 23
+print(result)
