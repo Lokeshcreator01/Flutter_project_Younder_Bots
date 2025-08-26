@@ -4,5 +4,5 @@
 
 Below is a screenshot of the main UI:
 
-![Main UI](screenShots/UI1.png)
+![Main UI](screenShots/UI_1.png)
 
